@@ -1,2 +1,6 @@
-# nomissbowling.github.io
-nomissbowling.github.io
+nomissbowling
+=============
+
+- [ https://nomissbowling.github.io/ ]( https://nomissbowling.github.io/ )
+
+- [ https://nomissbowling.github.io/pyob/ ]( https://nomissbowling.github.io/pyob/ )
